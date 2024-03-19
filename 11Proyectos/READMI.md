@@ -1,6 +1,6 @@
-# Proyectos de Chat con GPT-3.5
+# Proyectos
 
-Este repositorio contiene una colección de programas desarrollados en colaboración con ChatGPT (GPT-3.5) para una variedad de propósitos. Desde juegos simples hasta utilidades prácticas, estos programas demuestran la versatilidad de la inteligencia artificial y su capacidad para interactuar y crear aplicaciones útiles.
+Este repositorio contiene una colección de programas desarrollados para una variedad de propósitos. Desde juegos simples hasta utilidades prácticas.
 
 ## Lista de Programas
 
